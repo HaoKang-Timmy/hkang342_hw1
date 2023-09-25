@@ -1,4 +1,5 @@
-# Please install sklearn, pytorch, matplotlib and some other packages first.
+# Please see my code at https://github.com/HaoKang-Timmy/hkang342_hw1.
+# Please install sklearn, torch, matplotlib,torchvision and some other packages first.
 
 # Reproduce decision tree and prune decision tree, please open decision_tree.ipynb and run the codes. I have run it on my computer.
 
